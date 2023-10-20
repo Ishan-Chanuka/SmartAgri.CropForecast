@@ -1,0 +1,15 @@
+Month
+Year
+Yield Type_Chilies
+Yield Type_Cocoa
+Yield Type_Corn
+Yield Type_Cowpea
+Yield Type_Garlic
+Yield Type_Ginger
+Yield Type_Leak
+Yield Type_Onion
+Yield Type_Pepper
+Yield Type_Potato
+Yield Type_Pumpkin
+Yield Type_Radish
+Yield Type_Tomato
